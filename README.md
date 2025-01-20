@@ -3,10 +3,13 @@ Hi, I'm Caleb! I started my programming journey in Spring 2021 and am on track t
 
 🌱 Interests
 
-Software development
-Learning new languages and frameworks
-Open-source collaboration
+*Software development
+
+*Learning new languages and frameworks
+
+*Open-source collaboration
 
 
 📫 Let's connect
+
 Check out my work and don't hesitate to reach out if you have any questions or ideas!
